@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+.one{background:url(../images/dark.png) repeat-x;background-size:contain;height:437px;}
+.one .banner{margin:0 auto;width:1140px;}
+.one .banner img{float:left;}
+.two{width:1140px;margin:0 auto;text-align:center;}
+.two h2{font-size:22px;color:#000;line-height:50px;height:50px;position:relative;margin-top:47px;}
+.two h2:before{content:"";width:489px;height:2px;background-color:#8fbf00;display:block;position:absolute;left:0;top:25px;}
+.two h2:after{content:"";width:489px;height:2px;background-color:#8fbf00;display:block;position:absolute;left:0;top:50px;}
+.two .pic{font-size:0;padding:58px 0;}
+.two .pic a{padding:0 17px 28px;display:inline-block;} 
+.two img{width:253px;}
+.three{background:url(../images/ba2.jpg) no-repeat center top;height:380px;}
+.three .inner{width:1140px;margin:0 auto;color:#fff;}
+.three h3{line-height:64px;font-size:45px;font-weight:normal;padding-top:83px;}
+.three p{line-height:22px;font-size:17px;padding-bottom:15px;}
+.three .btn{width:102px;height:34px;background-color:#8fbf00;text-align:center;line-height:34px;font-size:15px;}
+.three .btn a{color:#fff;display:block;}
+.four{width:1140px;margin:0 auto;padding:70px 0;}
+.four .left{float:left;width:350px;padding:0 15px;}
+.four .left h4{background-color:#2d2d2d;color:#fff;line-height:43px;height:43px;font-size:21px;padding-left:16px;}
+.four .left .game{padding-top:49px;width:350px;height:119px;}
+.four .left a{float:left;padding-right:14px;}
+.four .left time{line-height:29px;height:29px;color:#989494;font-size:17px;}
+.four .left p{line-height:22px;color:#00002f;font-size:17px;}
+.four .left span{line-height:25px;height:25px;font-size:15px;}
+.four .left span a{color:#9fbf3a;}

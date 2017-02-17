@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+.main{width:1140px;margin:0 auto;}
+h2{line-height:91px;height:91px;padding-top:25px;text-align:center;font-size:44px;font-family:arial;color:#2d2d2d;}
+.one .pic{font-size:0;}
+.one .mid{padding-top:14px;}
+.one time{float:left;width:96px;height:89px;border-right:2px solid #cdcbcb;}
+.one time .num{font-size:52px;color:#8fbf00;line-height:48px;height:48px;padding:12px 0 0 18px;}
+.one time span{font-size:25px;line-height:29px;height:29px;color:#8fbf00;padding-left:16px;font-family:arial;}
+.one .right{float:left;width:1000px;padding-left:28px;}
+.one .right h3{line-height:22px;height:22px;font-size:15px;font-family:arial;font-weight:normal;padding-top:9px;}
+.one .right h3 a{color:#2d2d50;}
+.one .right h3 a:hover{color:#8fbf00;}
+.one .right p{line-height:23px;font-size:15px;font-family:arial;color:#a09f9f;padding-bottom:8px;}
+.one .right p a{color:#8fbf00;}
+.one .right .btn{width:97px;height:34px;background-color:#8fbf00;line-height:34px;text-align:center;font-size:15px;font-family:arial;margin:6px 0 56px 0;}
+.one .right .btn a{color:#fff;display:block;}
+.one .right .btn a:hover{background-color:#000;}
+.page-btn{text-align:center;}
+.page-btn ul{display:inline-block;}
+.page-btn li{float:left;width:32px;height:32px;border:1px solid #dddddd;text-align:center;line-height:32px;}
+.page-btn li a{color:#337ab7;display:block;}
+.page-btn li a:hover{background-color:#8fbf00;color:#fff;}
+
+
+
+
+
+

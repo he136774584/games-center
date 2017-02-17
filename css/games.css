@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+section{width:1140px;margin:0 auto;text-align:center;padding-bottom:60px;}
+section h2{font-size:42px;font-family:arial;font-weight:normal;line-height:80px;height:80px;color:#2d2d2d;padding-top:30px;}
+section ul{display:inline-block;*display:inline;*zoom:1;text-transform:uppercase;}
+section ul li{float:left;font-size:15px;font-family:arial;font-weight:normal;line-height:65px;height:65px;padding:0 12px;}
+section ul .all a{color:#8fbf00;}
+section ul li a{color:#25211e;}
+section ul li a:hover{color:#8fbf00;}
+section .pic-list img{width:253px;height:253px;}
+section .pic-list a{margin:0 17px 28px;display:inline-block;position:relative;font-size:0;}
+section .pic-list a .mask{width:100%;height:100%;background-color:rgba(0,0,0,0.5);position:absolute;left:0;top:0;display:none;}
+section .pic-list a:hover .mask{display:block;}
+
+
+
+
+

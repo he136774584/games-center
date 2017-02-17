@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+.clear{clear:both;}
+section{width:1140px;margin:0 auto;}
+section h1{line-height:128px;height:128px;padding-top:2px;font-size:42px;color:#2d2d2d;font-family:arial;font-weight:normal;text-align:center;}
+section .one{width:350px;height:386px;background-color:#eeeeee;float:left;margin:0 14px 42px;}
+section .inner{padding:0 14px;font-size:0;}
+section img{width:322px;height:276px;padding-top:14px;}
+section h2{line-height:35px;height:35px;color:#2d2d2d;font-size:16px;font-family:arial;font-weight:normal;padding-top:7px;}
+section h2:hover{color:#0DF412;}
+section p{line-height:21px;color:#2d2d2d;font-size:14px;font-family:arial;}

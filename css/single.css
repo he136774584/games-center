@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+.main{width:1140px;margin:0 auto;}
+.pic{font-size:0;}
+.one .mid{padding-top:14px;}
+.one time{float:left;width:96px;height:89px;border-right:2px solid #cdcbcb;}
+.one time .num{font-size:52px;color:#8fbf00;line-height:48px;height:48px;padding:12px 0 0 18px;}
+.one time span{font-size:25px;line-height:29px;height:29px;color:#8fbf00;padding-left:16px;font-family:arial;}
+.one .right{float:left;width:1000px;padding-left:28px;}
+.one .right h3{line-height:22px;height:22px;font-size:15px;font-family:arial;font-weight:normal;padding-top:9px;}
+.one .right h3 a{color:#2d2d50;}
+.one .right h3 a:hover{color:#8fbf00;}
+.one .right p{line-height:23px;font-size:15px;font-family:arial;color:#a09f9f;padding-bottom:8px;}
+.one .right p a{color:#8fbf00;}
+.one ul{float:left;}
+.one li{width:500px;height:28px;font:15px/28px arial;}
+.one li a{color:#a09f9f;transition:all 0.5s;}
+.one li a:hover{color:#8fbf00;padding-left:10px;}
+.one li i{width:5px;height:5px;background:#8fbf00;display:inline-block;margin-right:10px;}
+.two h3{text-align:center;font:34px/83px arial;color:#2d2d2d;padding-top:40px;}
+.two .icon{float:left;font-size:0;padding:11px;}
+.two .mid{padding-left:80px;}
+.comment .name{font:18px/42px arial;}
+.comment .name a{color:#2d2d2d;}
+.comment p{font:15px/23px arial;color:#a09f9f;}
+.three{padding-bottom:105px;}
+.three h3{text-align:center;font:34px/100px arial;color:#2d2d2d;}
+.three .text{width:338px;height:49px;border:1px solid #a09f9f;margin-right:30px;font:15px/49px arial;color:#a0abc3;}
+.three textarea{width:1081px;height:178px;border:1px solid #a09f9f;margin:15px 0;font:15px/49px arial;color:#a0abc3;}
+.three .sub{width:111px;height:40px;background-color:#8fbf00;color:#fff;font:15px/40px arial;}
+.three .sub:hover{background-color:#000;}

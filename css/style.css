@@ -1,0 +1,52 @@
+@charset "utf-8";
+/* CSS Document */
+body,h1,h2,h3,h4,h5,h6,p,ul,ol,dl,dt,dd,input{margin:0;padding:0;}
+ul{list-style:none;}
+a{text-decoration:none;}
+img,input{border:none;}
+body{font-family:arial;}
+.clear{clear:both;}
+header{background-color:#8fbf00;}
+header .inner{margin:0 auto;width:1140px;}
+header ul{float:left;padding-left:30px;}
+header li{float:left;padding-right:33px;display:block;line-height:36px;height:36px;font-size:14px;}
+header li a{color:#fff;}
+header form{float:right;border-left:1px solid #fff;height:36px;padding-left:15px;}
+header form a i{color:#fff;font-size:20px;line-height:36px;height:36px;}
+header input{width:200px;height:30px;background-color:#8fbf00;color:#fff;font-size:14px;font-style:italic;}
+nav{border-bottom:2px solid #d6d5d5;}
+nav .inner{width:1140px;margin:0 auto;}
+nav h1{font-size:37px;line-height:94px;height:94px;float:left;}
+nav h1 a{color:#2d2d2d;}
+nav h1 a span{color:#8fbf3a;}
+nav ul{float:right;padding:25px 15px 0 0;}
+nav ul li{float:left;font-size:15px;line-height:44px;line-height:44px;}
+nav ul li a{color:#000;display:block;padding:0 20px;}
+nav ul li:nth-child(1) a:hover{background-color:#D8166B;color:#fff;}
+nav ul li:nth-child(2) a:hover{background-color:#E0AA0B;color:#fff;}
+nav ul li:nth-child(3) a:hover{background-color:#F9F807;color:#fff;}
+nav ul li:nth-child(4) a:hover{background-color:#8fbf00;color:#fff;}
+nav ul li:nth-child(5) a:hover{background-color:#3971E1;color:#fff;}
+nav ul li:nth-child(6) a:hover{background-color:#9444E3;color:#fff;}
+footer .top{background-color:#2d2d2d;height:275px;}
+footer .top .inner{width:1140px;margin:0 auto;}
+footer .top .inner dl{width:170px;float:left;padding-right:48px;}
+footer .top .inner dt{color:#fff;line-height:38px;height:38px;font-size:19px;padding-top:19px;}
+footer .top .inner p{color:#989494;line-height:23px;font-size:13px;}
+footer .top .inner a{color:#989494;line-height:23px;font-size:13px;height:23px;}
+footer .top .inner a:hover{color:#8fbf00;}
+footer .bot{background-color:#8fbf00;height:48px;}
+footer .bot .inner{width:1140px;margin:0 auto;text-align:center;font-size:15px;line-height:48px;color:#fff;}
+
+
+
+
+
+
+
+
+
+
+
+
+
